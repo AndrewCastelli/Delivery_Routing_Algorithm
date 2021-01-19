@@ -1,6 +1,9 @@
 # Greedy Algorithm
-I created this solution December, 2020 using Python v3.8 in the PyCharm IDE.
-This exercise was done for *'Data Structures and Algorithms II – C950'* final performance assessment.
+### December 1st, 2020
+
+    Created By: Andrew Castelli
+    Created Using: Python v3.8, PyCharm CE
+    Created For: Data Structures and Algorithms II
 
 ## Instructions
 A parcel service needs to determine an efficient route and delivery distribution for their daily deliveries, because packages are not currently being consistently delivered by their promised deadline. Daily delivery route has two trucks, three drivers, and an average of 40 packages to deliver each day. Each package has specific criteria and delivery requirements.
